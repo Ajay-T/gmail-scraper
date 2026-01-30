@@ -1,0 +1,14 @@
+# Gmail API
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=1.0.0
+
+# LLM Integration
+anthropic>=0.40.0
+
+# Utilities
+python-dotenv>=1.0.0
+rich>=13.0.0  # Pretty terminal output
+
+# Development
+pytest>=7.0.0
